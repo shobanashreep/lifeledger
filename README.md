@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LifeLedger
 
 **Organize Your Life. Track What Matters. Never Miss a Deadline.**
@@ -205,12 +204,6 @@ All routes except `/api/auth/register` and `/api/auth/login` require `Authorizat
 
 ---
 
-## Screenshots
-
-_Add screenshots of the Landing Page, Dashboard, Life Items list, Item Detail, and Calendar here once the app is running._
-
----
-
 ## Future Improvements
 
 - Real email delivery for reminders (currently reminder rows are created but not dispatched)
@@ -219,6 +212,4 @@ _Add screenshots of the Landing Page, Dashboard, Life Items list, Item Detail, a
 - Recharts-based analytics on spend and category trends
 - Server-driven push notifications
 - Automated background job to promote `reminders` into `notifications`
-=======
-# lifeledger
->>>>>>> f810f19355056543ef7a2a24a3fba3943e5f56f6
+
