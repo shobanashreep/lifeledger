@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LifeLedger
 
 **Organize Your Life. Track What Matters. Never Miss a Deadline.**
@@ -218,3 +219,6 @@ _Add screenshots of the Landing Page, Dashboard, Life Items list, Item Detail, a
 - Recharts-based analytics on spend and category trends
 - Server-driven push notifications
 - Automated background job to promote `reminders` into `notifications`
+=======
+# lifeledger
+>>>>>>> f810f19355056543ef7a2a24a3fba3943e5f56f6
